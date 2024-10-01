@@ -1,4 +1,4 @@
-![Screenshot 2024-10-01 212416](https://github.com/user-attachments/assets/8b935eeb-5ee4-4adb-bdb1-65ee29449612)# Object Detection with SSD MobileNet V2, LabelImg, and OpenCV
+# Object Detection with SSD MobileNet V2, LabelImg, and OpenCV
 
 Welcome to the **Image Labeling and Object Detection** repository! This project demonstrates the process of labeling images using the LabelImg tool, applying transfer learning with the *SSD MobileNet V2 FPNLite 320x320* for object detection, and implementing real-time detection using **OpenCV**.
 
