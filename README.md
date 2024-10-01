@@ -74,4 +74,5 @@ By combining the **LabelImg** tool for image annotation, the **SSD MobileNet V2 
 Feel free to explore the repository and experiment with your own datasets and video sources!
 
 ---
+LabelImg, the popular image annotation tool created by Tzutalin, Thanks!
 I would like to thanks Nicholas Renotte, without his Youtube Guidance it wouldn't have been possible to understand the dynamics of object detection and it's working!
