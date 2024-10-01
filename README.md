@@ -69,5 +69,4 @@ By combining the **LabelImg** tool for image annotation, the **SSD MobileNet V2 
 Feel free to explore the repository and experiment with your own datasets and video sources!
 
 ---
-
-Created by _Your Name_. Contributions are welcome!
+I would like to thanks Nicholas Renotte, without his Youtube Guidance it wouldn't have been possible to understand the dynamics of object detection and it's working!
